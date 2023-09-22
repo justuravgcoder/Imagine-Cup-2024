@@ -1,5 +1,4 @@
 
-
 # Official Repository For Imagine Cup 2024
 
 ### Every participant is requested to create your own branch and not to commit in the master repository
