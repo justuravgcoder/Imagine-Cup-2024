@@ -1,4 +1,4 @@
-<img src = "https://repository-images.githubusercontent.com/338525228/fc679380-6f08-11eb-89fc-2dcf0555a369">
+
 
 # Official Repository For Imagine Cup 2024
 
