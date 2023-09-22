@@ -1,5 +1,5 @@
-<center>
 <img src = "https://uol.edu.pk/wp-content/uploads/2021/07/imagine_cup_030815-1170x610-1.jpg">
+<center>
 <h1>Official Repository For Imagine Cup 2024</h1>
 <h3>Every participant is requested to create your own branch and not to commit in the master repository</h3>
 <h4> Work for week 1 </h4>
