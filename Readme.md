@@ -3,16 +3,17 @@
 
 ### Every participant is requested to create your own branch and not to commit in the master repository
 
-#### Work for week 1
+#### Work for week 2
 
 - **Ali Mehmood**
-  - Find out how swipes and presses operations occur in Flutter
+  - Make a small custom app check for each web and android and check with the outputs of wajid
 
 - **Talha Wajid**
-  - Find Python code that takes in our eye input (using a webcam) and gives appropriate output, e.g., right, left, still, etc.
+  - If code found then try to write from scratch (add modifications) to tailor the code according to our need
 
 - **Danish Javed**
-  - Come up with the logo and manage social media (a triple post or a single one divided).
+  - Instagram starts.
 
 - **Shurahbeel Peerzada**
-  - Come up with a feasibility report and manage how to detect iris movement of the human eye
+  - Meeting with Talha Laique to discuss possible solutions of problems
+  - Write the code along with Talha
